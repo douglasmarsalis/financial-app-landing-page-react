@@ -10,12 +10,12 @@
 * 
 
 ## Installation
-* github desktop
 * npm create vite@latest .
 * npm install
 * npm run dev -> http://localhost:5173
 * npm install 
 * Tailwind.css.com -> follow wbsite installation
+* Added extensions for vscode
 
 ## Link to Deployed Application
 

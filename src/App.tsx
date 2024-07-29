@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-    <h1 className="text-white bg-black">Hello you Stinky Bastard!</h1>
+    <h1>Hello you Stinky Bastard!</h1>
     </>
   );
 }
